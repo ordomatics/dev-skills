@@ -1,0 +1,5 @@
+{
+  "name": "ordomatics-ops",
+  "version": "1.0.0",
+  "description": "Operational runbooks for Ordomatics K8s/ArgoCD/Supabase"
+}
